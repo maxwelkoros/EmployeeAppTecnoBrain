@@ -1,0 +1,9 @@
+C:\Users\dkimathi\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\EmployeeApp.deps.json
+C:\Users\dkimathi\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\EmployeeApp.dll
+C:\Users\dkimathi\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\EmployeeApp.pdb
+C:\Users\dkimathi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\EmpApp.csprojAssemblyReference.cache
+C:\Users\dkimathi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\EmpApp.csproj.CoreCompileInputs.cache
+C:\Users\dkimathi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\EmpApp.AssemblyInfoInputs.cache
+C:\Users\dkimathi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\EmpApp.AssemblyInfo.cs
+C:\Users\dkimathi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\EmployeeApp.dll
+C:\Users\dkimathi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\EmployeeApp.pdb

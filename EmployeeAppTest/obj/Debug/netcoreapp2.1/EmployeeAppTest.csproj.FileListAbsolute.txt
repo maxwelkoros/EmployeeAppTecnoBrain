@@ -1,0 +1,17 @@
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\bin\Debug\netcoreapp2.1\EmployeeAppTest.deps.json
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\bin\Debug\netcoreapp2.1\EmployeeAppTest.runtimeconfig.json
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\bin\Debug\netcoreapp2.1\EmployeeAppTest.runtimeconfig.dev.json
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\bin\Debug\netcoreapp2.1\EmployeeAppTest.dll
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\obj\Debug\netcoreapp2.1\EmployeeAppTest.csprojAssemblyReference.cache
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\obj\Debug\netcoreapp2.1\EmployeeAppTest.csproj.CoreCompileInputs.cache
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\obj\Debug\netcoreapp2.1\EmployeeAppTest.AssemblyInfoInputs.cache
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\obj\Debug\netcoreapp2.1\EmployeeAppTest.AssemblyInfo.cs
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\bin\Debug\netcoreapp2.1\EmployeeAppTest.pdb
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\obj\Debug\netcoreapp2.1\EmployeeAppTest.csproj.CopyComplete
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\obj\Debug\netcoreapp2.1\EmployeeAppTest.dll
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\obj\Debug\netcoreapp2.1\EmployeeAppTest.pdb
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\bin\Debug\netcoreapp2.1\EmployeeApp.dll
+C:\Users\dkimathi\source\repos\ConsoleApp1\EmployeeAppTest\bin\Debug\netcoreapp2.1\EmployeeApp.pdb
